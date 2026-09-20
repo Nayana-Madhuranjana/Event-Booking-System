@@ -1,0 +1,3 @@
+AdminID|FullName|Email|Phone|Password|Role
+A001|System Administrator|admin@eventpro.com|0700000000|admin123|Admin
+A002|Event Organizer|organizer@eventpro.com|0711111111|organizer123|Organizer

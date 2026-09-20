@@ -1,0 +1,4 @@
+ReviewID|UserID|EventID|Rating|Comment|Status
+R001|U001|E001|5|Amazing premium concert experience with smooth ticket booking.|Published
+R002|U002|E002|4|Very useful seminar and easy seat reservation process.|Published
+R003|U003|E001|5|The QR ticket and seat map made entry very convenient.|Published

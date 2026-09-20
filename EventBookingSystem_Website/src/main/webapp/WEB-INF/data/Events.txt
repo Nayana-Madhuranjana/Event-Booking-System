@@ -1,0 +1,5 @@
+EventID|EventName|EventType|EventDate|EventTime|VenueName|VenueAddress|TotalSeats|TicketPrice|Popularity|Description|Organizer
+E001|Emerald Night Live Concert|Live Concert|2026-06-15|19:00|Lotus Arena|Colombo 07|60|2500|96|A premium live music concert with VIP seating, professional lighting, and a high-energy stage experience.|EventPro Live
+E002|Future Tech Seminar 2026|Seminar|2026-06-22|10:00|Innovation Hall|Malabe Campus|50|1500|88|A professional seminar covering software engineering, cloud systems, AI trends, and career guidance.|TechTalk Organizers
+E003|Digital Business Webinar|Webinar|2026-07-02|18:30|Online Zoom Hall|Virtual Event|40|900|75|An online webinar for students and professionals who want to learn business strategy and digital branding.|WebX Academy
+E004|Startup Pitch Evening|Seminar|2026-07-10|17:00|Emerald Conference Center|Colombo 03|45|1200|82|A networking-focused evening where young entrepreneurs pitch ideas to mentors and investors.|Startup LK

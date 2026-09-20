@@ -1,0 +1,3 @@
+2026-05-01 | System initialized with sample event data
+2026-05-03 | Ticket B002 checked in at entry
+2026-05-05 | New review R003 published

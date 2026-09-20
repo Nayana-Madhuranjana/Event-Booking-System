@@ -1,0 +1,8 @@
+2026-05-01 | System initialized with sample event data
+2026-05-03 | Ticket B002 checked in at entry
+2026-05-05 | New review R003 published
+2026-05-10 | Reserved seat S40 for event E001
+2026-05-10 | Created booking: B6641
+2026-05-10 | Reserved seats V01,S32 for event E004
+2026-05-10 | Created booking: B32114
+2026-05-14 | Created user account: U98216
